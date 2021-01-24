@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(205, 255, 238);
+}
+.wrapper{
+    max-width: 850px;
+    margin: 15px auto 25px auto;
+}
+.wrapper img{
+    width: 100%;
+}
