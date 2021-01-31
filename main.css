@@ -1,10 +1,35 @@
 body{
-    background-color: rgb(205, 255, 238);
+    background-image: url('https://i.pinimg.com/originals/68/bf/36/68bf36401bb9a56d05e92633a32dd989.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 0;
 }
+
 .wrapper{
     max-width: 850px;
     margin: 15px auto 25px auto;
+    background: rgb(30,26,107);
+    background: linear-gradient(0deg, rgba(30,26,107,1) 0%, rgba(33,33,207,1) 35%, rgba(0,212,255,1) 100%);
 }
+
 .wrapper img{
     width: 100%;
+}
+
+.item1{
+    background-color: lightslategray;
+    width: 48%;
+    display: inline-block;
+}
+.item2{
+    background-color: steelblue;
+    width: 48%;
+    display: inline-block;
+}
+.top i{
+    font-size: 300%;
+}
+
+.sendmail{
+    font-size: 300%;
 }
